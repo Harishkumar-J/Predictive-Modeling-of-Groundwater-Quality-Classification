@@ -19,7 +19,7 @@ The study compares **Logistic Regression, Support Vector Machine (SVM), Random F
 ---
 
 ## 📂 Project Structure
-├── Project Code.ipynb # Jupyter notebook (EDA → Models → Evaluation)
+├── Project Code (ground water).ipynb # Jupyter notebook (EDA → Models → Evaluation)
 
 ├── GROUND.csv # Groundwater dataset (2012–2021, CPCB India)
 
