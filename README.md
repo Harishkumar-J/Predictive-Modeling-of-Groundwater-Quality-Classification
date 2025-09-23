@@ -7,7 +7,7 @@ This project applies **machine learning** to classify and predict groundwater qu
 - **Temperature**
 - **Conductivity**
 
-We also developed a **risk scoring framework** (Water Quality Index – WQI) to categorize water into:
+Also developed a **risk scoring framework** (Water Quality Index – WQI) to categorize water into:
 
 - Excellent  
 - Good  
@@ -71,7 +71,7 @@ The study compares **Logistic Regression, Support Vector Machine (SVM), Random F
 ---
 
 ## 📸 Visual Insights
-Some example outputs you can include (export from your notebook into `/images`):
+
 
 - Confusion matrix - logistic Regression
 <p align="center">
