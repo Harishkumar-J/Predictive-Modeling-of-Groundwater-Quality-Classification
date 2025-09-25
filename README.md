@@ -6,7 +6,8 @@
 - **Duration:** 01 July 2024 → 13 September 2024 (~10 weeks)  
 - **Role:** Student Researcher (Self-initiated Academic Project)  
 - **Location:** UK (MSc Data Science dissertation)  
-- **Outcome:** Machine learning framework for groundwater risk classification with 97.13% accuracy (XGBoost).  
+- **Outcome:** Machine learning framework for groundwater risk classification with 97.13% accuracy (XGBoost).
+- **Code Link:** https://colab.research.google.com/github/Harishkumar-J/Predictive-Modeling-of-Groundwater-Quality-Classification/blob/main/Project_Code_(ground_water).ipynb
 
 This is an academic/portfolio repository. It documents **learning, roles, and process**.  
 No proprietary or sensitive data/IP is included.
