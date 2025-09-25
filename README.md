@@ -1,5 +1,16 @@
 # 🌊 Groundwater Quality Prediction & Risk Assessment (India)
 
+# Project Timeline
+
+- **Project Name:** Groundwater Quality Classification and Risk Assessment  
+- **Duration:** 01 July 2024 → 13 September 2024 (~10 weeks)  
+- **Role:** Student Researcher (Self-initiated Academic Project)  
+- **Location:** UK (MSc Data Science dissertation)  
+- **Outcome:** Machine learning framework for groundwater risk classification with 97.13% accuracy (XGBoost).  
+
+This is an academic/portfolio repository. It documents **learning, roles, and process**.  
+No proprietary or sensitive data/IP is included.
+
 ## 🚀 Overview
 This project applies **machine learning** to classify and predict groundwater quality across India, using key parameters:
 
